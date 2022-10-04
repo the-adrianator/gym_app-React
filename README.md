@@ -1,1 +1,1 @@
-# gymme-landing-starter
+# gymanji-landing-starter

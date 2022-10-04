@@ -1,5 +1,6 @@
 // images
-import Logo from '../src/assets/img/header/logo.svg';
+import Logo from '../src/assets/img/header/logo.png';
+import Logo2 from '../src/assets/img/header/logo2.png';
 import ResistanceImg from '../src/assets/img/workouts/resistance.png';
 import BoxingImg from '../src/assets/img/workouts/boxing.png';
 import BodyPumpImg from '../src/assets/img/workouts/body-pump.png';
@@ -35,8 +36,8 @@ export const nav = [
 ];
 
 export const banner = {
-  titlePart1: 'Get the best part of your day',
-  titlePart2: '– you fit here.',
+  titlePart1: 'Get the best out of your day',
+  titlePart2: '– find your fit here.',
   subtitle:
     'We provide serious fitness but within a fun and friendly, safe space.',
   textBtn: 'Join Now',
@@ -136,25 +137,25 @@ export const community = {
       image: CommunityImg1,
       name: 'Mark A.',
       message:
-        '“Great location, great price and great, helpful people. What to want more?”',
+        '“Great location, great price and great, helpful people. What more can you ask for?”',
     },
     {
       image: CommunityImg2,
       name: 'Lauren K.',
       message:
-        '“Gymme changed my life. Not only physically but mentally as well. I’m a better mother, and all around better human being because of this gym.”',
+        '“Gymanji changed my life. Not only physically but mentally as well. I’m a better mother, and all around better human being because of this gym.”',
     },
     {
       image: CommunityImg3,
       name: 'Jhon D.',
       message:
-        '“Love these workouts! Trainers are knowledgeable and motivating. Gymme is wonderful!”',
+        '“Love these workouts! Trainers are knowledgeable and motivating. gymanji is wonderful!”',
     },
     {
       image: CommunityImg4,
       name: 'Anne R.',
       message:
-        '“Love these workouts! Trainers are knowledgeable and motivating. Gymme is wonderful!”',
+        '“Love these workouts! Trainers are knowledgeable and motivating. gymanji is wonderful!”',
     },
   ],
 };
@@ -200,11 +201,11 @@ export const join = {
   image: JoinImg,
   title: 'Wanna join & have fun?',
   subtitle:
-    'We’ll keep you updated on the things you need to know about Gymme. Nothing more, nothing less.',
+    'We’ll keep you updated on the things you need to know about gymanji. Nothing more, nothing less.',
   btnText: 'Join now',
 };
 
 export const footer = {
-  logo: Logo,
-  copyrightText: 'All rights reserved. Gymme 2022.',
+  logo2: Logo2,
+  copyrightText: 'All rights reserved. Gymanji 2022.',
 };
